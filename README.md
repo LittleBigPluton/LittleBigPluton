@@ -13,4 +13,4 @@ I build and evaluate machine learning systems across transformer-based NLP, sema
 
 ## Core Technologies
 
-**Python · PyTorch · Hugging Face · scikit-learn · SentenceTransformers · FastAPI · LangGraph · Docker · Git · Linux**
+**Python · PyTorch · Hugging Face · scikit-learn · SentenceTransformers · FastAPI · LangGraph · C++ · CUDA · Docker · Git · Linux**
