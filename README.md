@@ -6,9 +6,10 @@ I build and evaluate machine learning systems across transformer-based NLP, sema
 
 ## Featured Work
 
-- **CareerMatch Agent** - Explainable agentic AI job-search system combining FastAPI, LangGraph, semantic ranking, deterministic filtering and evidence-grounded LLM evaluation.
-- **Predictive Maintenance ML** - End-to-end supervised ML pipeline with model comparison, cross-validation, threshold optimization, calibration, uncertainty analysis and error analysis.
-- **DESI-MSI Tissue Segmentation** - Scientific ML workflow using PCA and K-means for high-dimensional mass-spectrometry imaging data.
+- **CareerMatch Agent** — Explainable agentic AI job-search system combining FastAPI, LangGraph, semantic ranking, deterministic filtering and evidence-grounded LLM evaluation.
+- **Predictive Maintenance ML** — End-to-end supervised ML pipeline with model comparison, threshold optimization, calibration, uncertainty analysis and error analysis.
+- **DESI-MSI Clustering** — Scientific ML workflow using PCA and K-means for high-dimensional mass-spectrometry imaging data.
+- **GPU-Accelerated Satellite Simulation** — C++/CUDA simulation with CPU/GPU consistency testing and reproducible performance benchmarks.
 
 ## Core Technologies
 
