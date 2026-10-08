@@ -1,8 +1,8 @@
 # Umut Gökdemir
 
-**Machine Learning Engineer · NLP · Agentic AI · Applied ML**
+**Machine Learning Engineer · Applied ML · NLP · ML Systems**
 
-I build and evaluate machine learning systems across transformer-based NLP, semantic retrieval, agentic AI and scientific data analysis. My work focuses on reproducible experimentation, measurable model performance and reliable ML engineering.
+I build and evaluate end-to-end machine learning systems across NLP, retrieval, predictive modelling and scientific computing, with a focus on measurable performance, reproducible engineering and robust evaluation.
 
 ## Featured Work
 
